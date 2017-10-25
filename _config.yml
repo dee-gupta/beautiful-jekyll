@@ -23,12 +23,12 @@ description: Deepak Gupta
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  #About Me: "aboutme"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
   #   - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  #Author's home: "http://deanattali.com"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -55,56 +55,56 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
-  email: "youremail@domain.com"
-  facebook: yourname  # eg. daattali
-  github: yourname    # eg. daattali
-  twitter: yourname   # eg. daattali
-  reddit: yourname    # eg. daattali
-  google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
-  linkedin: yourname  # eg. daattali
-  xing: yourname      # eg. daattali
-  stackoverflow: yourlink  # eg. "3943160/daattali"
-  snapchat: yourname  # eg. daattali
-  instagram: yourname # eg. daattali
-  youtube: yourlink   # eg. user/daattali or channel/daattali
-  spotify: yourname   # eg. daattali
-  telephone: yourphone   # eg. +14159998888
-  steam: yourname     # eg. daattali
-  twitch: yourname    # eg. daattali
-  yelp: yourname      # eg. daattali
+  name: Deepak Gupta
+  email: "deegupta@cs.stonybrook.edu"
+  #facebook: yourname  # eg. daattali
+  github: dee-gupta    # eg. daattali
+  #twitter: yourname   # eg. daattali
+  #reddit: yourname    # eg. daattali
+  #google-plus: +yourname   # eg. +DeanAttali or 109424658772469020925
+  linkedin: deepak-stonybrook  # eg. daattali
+  #xing: yourname      # eg. daattali
+  #stackoverflow: yourlink  # eg. "3943160/daattali"
+  #snapchat: yourname  # eg. daattali
+  #instagram: yourname # eg. daattali
+  #youtube: yourlink   # eg. user/daattali or channel/daattali
+  #spotify: yourname   # eg. daattali
+  telephone: +1-631-590-9530   # eg. +14159998888
+  #steam: yourname     # eg. daattali
+  #twitch: yourname    # eg. daattali
+  #yelp: yourname      # eg. daattali
 
 # Select which links to show in the footer
 footer-links-active:
-  rss: false
-  facebook: true
+  #rss: false
+  #facebook: true
   email: true
-  twitter: true
-  google-plus: false
+  #twitter: true
+  #google-plus: false
   github: true
-  reddit: false
+  #reddit: false
   linkedin: false
-  xing: false
-  stackoverflow: false
-  snapchat: false
-  instagram: false
-  youtube: false
-  spotify: false
-  telephone: false
-  steam: false
-  twitch: false
-  yelp: false
+  #xing: false
+  #stackoverflow: false
+  #snapchat: false
+  #instagram: false
+  #youtube: false
+  #spotify: false
+  #telephone: false
+  #steam: false
+  #twitch: false
+  #yelp: false
 
 # Select which share links to show in posts
 share-links-active:
-  twitter: true
-  facebook: true
-  google: false
-  linkedin: true
+  # twitter: true
+  # facebook: true
+  # google: false
+  # linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+# url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
