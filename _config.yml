@@ -90,7 +90,7 @@ footer-links-active:
   #instagram: false
   #youtube: false
   #spotify: false
-  #telephone: false
+  telephone: true
   #steam: false
   #twitch: false
   #yelp: false
