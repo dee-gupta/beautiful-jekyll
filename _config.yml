@@ -22,8 +22,8 @@ description: Deepak Gupta
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
-navbar-links:
-  #About Me: "aboutme"
+ navbar-links:
+  Resume: "www.google.com"
   # Resources:
   #   - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
   #   - Learn markdown: "http://www.markdowntutorial.com/"
@@ -83,7 +83,7 @@ footer-links-active:
   #google-plus: false
   github: true
   #reddit: false
-  linkedin: false
+  linkedin: true
   #xing: false
   #stackoverflow: false
   #snapchat: false
@@ -96,7 +96,7 @@ footer-links-active:
   #yelp: false
 
 # Select which share links to show in posts
-share-links-active:
+# share-links-active:
   # twitter: true
   # facebook: true
   # google: false
